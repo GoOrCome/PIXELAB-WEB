@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Noto+Sans+Linear+B&family=Readex+Pro:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=DM+Sans:opsz,wght@9..40,300&family=Noto+Sans+Linear+B&family=Poppins&family=Readex+Pro:wght@300&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
